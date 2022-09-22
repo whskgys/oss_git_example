@@ -41,7 +41,7 @@ _general actions in vcs_
 * Git 개발과정 , 소스파일 등을 관리하는 도구
 * Histroy 관리가 되어 개발되어온 과정 , 역사를 볼 수 있고 , 특정시점으로 복구가능
 
-![Image] (ihttps://th.bing.com/th/id/R.1591954549cb4f45870949c4de53cdaf?rik=RcEP3rK4%2bsT4TA&riu=http%3a%2f%2fumaar.github.io%2fexperiments%2fgithub-3d-logo%2frender-2.jpg&ehk=VpOrW33N7blW8q7XMTSvR8krYhTyJ7ruH%2f%2fmUKlWXYM%3d&risl=&pid=ImgRaw&r=0)
+![Image] (https://th.bing.com/th/id/R.1591954549cb4f45870949c4de53cdaf?rik=RcEP3rK4%2bsT4TA&riu=http%3a%2f%2fumaar.github.io%2fexperiments%2fgithub-3d-logo%2frender-2.jpg&ehk=VpOrW33N7blW8q7XMTSvR8krYhTyJ7ruH%2f%2fmUKlWXYM%3d&risl=&pid=ImgRaw&r=0)
 -------------
 ### Week2-3 Github, fork, pull request
 # add #
