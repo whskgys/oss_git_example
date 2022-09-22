@@ -53,7 +53,7 @@ _general actions in vcs_
 * 현재까지 역사 (commits) Github 에 밀어넣기
   > conflits 없이 해야함
 
-[My Github Blog](https://github.com/kkanuseobin)
+[My Github Blog](https://github.com/whskgys)
 
 -------------
 ### Week3     Markdown
@@ -67,4 +67,4 @@ _general actions in vcs_
 **Links and images**
 
 
-* 저런내용
+
